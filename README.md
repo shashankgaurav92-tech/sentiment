@@ -7,7 +7,7 @@ FinBERT originates from the BERT architecture by Google, which demonstrated exce
 
 The objective of this project is not to fine-tune or build an end-to-end model, but rather to harness FinBERT embeddings and sentiment outputs as reusable features for downstream analytical applications—including trend detection, text classification, risk scoring, clustering, extractive summarization, and time-series sentiment tracking of Natural Gas-related market communications.
 
-Features:
+# Features
 Pre-processing pipeline including text cleaning, segmentation, and metadata structuring.
 
 LLM-driven summarization to generate concise, decision-ready insights from long technical reports.
