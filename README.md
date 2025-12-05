@@ -15,3 +15,9 @@ LLM-driven summarization to generate concise, decision-ready insights from long 
 FinBERT-based sentence-level sentiment analysis tailored to financial language.
 
 Token- and sentence-level embedding extraction for advanced analytics and model reuse.
+
+# Purpose and Impact
+Sentiment-driven market monitoring
+Trend and narrative analysis
+Automated risk and tone assessment
+Predictive modeling based on linguistic signals
